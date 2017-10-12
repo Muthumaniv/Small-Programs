@@ -1,1 +1,1 @@
-# Small-Programs
+# Remote Method Invocation - Java Program
